@@ -1,0 +1,12 @@
+{
+  "name": "@lancs/itoken",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lancaster-uni/iToken",
+  "author": "Krisdev",
+  "license": "MIT",
+  "dependencies": {
+    "randomstring": "^1.1.5",
+    "request": "^2.88.0"
+  }
+}
